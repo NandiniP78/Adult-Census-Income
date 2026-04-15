@@ -32,8 +32,8 @@ The dataset includes the following features:
 
 ## 📁 Files Provided
 data/
-├── train.csv # Training data (features + target)
-├── test.csv # Test data (features only)
+├── train.csv # Training data (features + target)\n
+├── test.csv # Test data (features only)\n
 ├── sample_submission.csv # Submission format
 
 
