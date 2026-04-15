@@ -125,9 +125,8 @@ Participants are encouraged to improve performance using:
 
 ## 📂 Project Structure
 Adult-Census-Income/
-│
-├── data/
-├── notebooks/
-├── README.md
-├── requirements.txt
-├── evaluation.py
+- ├── data/
+- ├── notebooks/
+- ├── README.md
+- ├── requirements.txt
+- ├── evaluation.py
