@@ -43,6 +43,11 @@ def evaluate_submission(submission_path, name):
     print(leaderboard)
 
 # Example usage
+import sys
+
 if __name__ == "__main__":
-    evaluate_submission("submission.csv", "your_name")
+    submission_path = sys.argv[1]
+    username = sys.argv[2]
+
+    evaluate_submission(submission_path, username)
 
