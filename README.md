@@ -90,7 +90,7 @@ pip install -r requirements.txt
 ### 3. Run baseline model
 
 Open the notebook:
-notebooks/baseline_model.ipynb
+notebooks/Adult_Census_Income.ipynb
 
 
 ---
@@ -123,10 +123,10 @@ Participants are encouraged to improve performance using:
     Naive Bayes
     SVM
 
-## 📂 Project Structure
-Adult-Census-Income/
-- ├── data/
-- ├── notebooks/
-- ├── README.md
-- ├── requirements.txt
-- ├── evaluation.py
+## 🏆 Leaderboard
+
+See latest scores in:
+
+📄 `leaderboard.csv`
+
+
